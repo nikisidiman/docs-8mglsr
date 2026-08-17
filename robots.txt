@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-lcli63.juragan89a.space/sitemap.xml
